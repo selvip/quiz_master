@@ -1,0 +1,20 @@
+.centering{
+	text-align: center;
+}
+.backcolor-blue{
+	margin: 0 auto;
+	background-color: #002B36;
+}
+#footer{
+	padding: 20px;
+	color: #ffffff;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+#footer a{
+	color: #ffffff;
+}
+header{
+	color: #ffffff;
+}

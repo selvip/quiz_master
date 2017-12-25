@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Question.create(quest: 'What is the capital of Indonesia?', answer: ['jakarta'])
+Question.create(quest: 'What is the capital of China?', answer: ['beijing'])
+Question.create(quest: 'What is the capital of Malaysia?', answer: ['kuala lumpur', 'kl', 'kualalumpur'])
+Question.create(quest: 'Who is the actor of Jack Dawson', answer: ['leonardo', 'leonardo dicaprio'])
+Question.create(quest: 'How many color does Indonesian flag consist of?', answer: ['two', '2'])
